@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "codeceptjs": "^3.6.7",
+    "playwright": "^1.47.2"
+  },
+  "scripts": {
+    "test": "npx codeceptjs run-multiple allbrowsers"
+  }
+}
